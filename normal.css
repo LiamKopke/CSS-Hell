@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    background-image: URL("./SpaceBackground.jpg");
+    background-size: 100vh 100vw;
+} 
+p, h2{
+    max-width: 25vw;
+    color: #fff;
+}
